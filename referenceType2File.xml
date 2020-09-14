@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>7501841b001374048808aba323fbabee</guid>
+    <fileName>Assets/ActivateLetter.cs</fileName>
+    <timeStamp>2019-11-03T16:42:37.9530406+05:30</timeStamp>
+    <typeFullName>
+      <string>ActivateLetter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a7a7b34da29ec24886ca0cae0e509d0</guid>
+    <fileName>Assets/AudioCheck.cs</fileName>
+    <timeStamp>2019-11-19T16:48:40.5959299+05:30</timeStamp>
+    <typeFullName>
+      <string>AudioCheck</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5990cc8220f6bf3448fdb2ccce157484</guid>
+    <fileName>Assets/BizierFlowScript.cs</fileName>
+    <timeStamp>2019-10-23T20:41:20.9040814+05:30</timeStamp>
+    <typeFullName>
+      <string>BizierFlowScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18755f96b73b0b44c932c7bf84421068</guid>
+    <fileName>Assets/BuyHintsPannelButton.cs</fileName>
+    <timeStamp>2019-11-18T18:49:53.3839756+05:30</timeStamp>
+    <typeFullName>
+      <string>BuyHintsPannelButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a31d9ceb1ecc06147a44f91c14fc1787</guid>
+    <fileName>Assets/ContentButtonDissable.cs</fileName>
+    <timeStamp>2019-10-26T03:53:18.5524832+05:30</timeStamp>
+    <typeFullName>
+      <string>ContentButtonDissable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd00af9e4c927cb4fb7bce60796a0da7</guid>
+    <fileName>Assets/FPSScript.cs</fileName>
+    <timeStamp>2019-11-02T20:57:01.6186671+05:30</timeStamp>
+    <typeFullName>
+      <string>FPSScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5bf47a58b04beb42a7155d2440df008</guid>
+    <fileName>Assets/HintBulbscript.cs</fileName>
+    <timeStamp>2019-11-19T18:46:53.0007175+05:30</timeStamp>
+    <typeFullName>
+      <string>HintBulbscript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7cebb155c35f0eb46b07056d1e0a545c</guid>
+    <fileName>Assets/HintIconClick.cs</fileName>
+    <timeStamp>2019-11-18T18:44:13.3534875+05:30</timeStamp>
+    <typeFullName>
+      <string>HintIconClick</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8681d3821d041e843898d630c397731a</guid>
+    <fileName>Assets/LanguageSelectionButton.cs</fileName>
+    <timeStamp>2019-11-19T16:52:03.8065253+05:30</timeStamp>
+    <typeFullName>
+      <string>LanguageSelectionButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c740e14dca6bf7448a99525933ee3fbf</guid>
+    <fileName>Assets/Letter1Script.cs</fileName>
+    <timeStamp>2019-11-19T16:53:30.4138932+05:30</timeStamp>
+    <typeFullName>
+      <string>Letter1Script</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da76df1eaf54d7d4bb529e1efb100e14</guid>
+    <fileName>Assets/LevelButtonScript.cs</fileName>
+    <timeStamp>2019-11-19T16:56:44.0056839+05:30</timeStamp>
+    <typeFullName>
+      <string>LevelButtonScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88131bd5988acc14db4786648c75d628</guid>
+    <fileName>Assets/MainMenuThemesScript.cs</fileName>
+    <timeStamp>2019-11-17T15:22:29.7307456+05:30</timeStamp>
+    <typeFullName>
+      <string>MainMenuThemesScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34c207ae903846245825a6fa80ace1af</guid>
+    <fileName>Assets/OnBackButton.cs</fileName>
+    <timeStamp>2019-11-19T16:56:52.8220938+05:30</timeStamp>
+    <typeFullName>
+      <string>OnBackButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bacfb9da71a279d4fbf89a7c26205e4b</guid>
+    <fileName>Assets/OnNextLevelButton.cs</fileName>
+    <timeStamp>2019-11-19T17:11:33.1442335+05:30</timeStamp>
+    <typeFullName>
+      <string>OnNextLevelButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2416bb380dfb5de409aabc5f2bd10987</guid>
+    <fileName>Assets/PopulateGrid.cs</fileName>
+    <timeStamp>2019-10-26T03:16:57.7711317+05:30</timeStamp>
+    <typeFullName>
+      <string>PopulateGrid</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aee9205101adbb24e93c360954f8fb7d</guid>
+    <fileName>Assets/SoundButtonScript.cs</fileName>
+    <timeStamp>2019-11-19T16:47:57.9418705+05:30</timeStamp>
+    <typeFullName>
+      <string>SoundButtonScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d84cdd38cac984a4db6a6518c9aaf0af</guid>
+    <fileName>Assets/SoundIconActiveScrit.cs</fileName>
+    <timeStamp>2019-11-27T20:04:27.5892361+05:30</timeStamp>
+    <typeFullName>
+      <string>SoundIconActiveScrit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c6086f24600d784baa75915653ea459</guid>
+    <fileName>Assets/SountScript.cs</fileName>
+    <timeStamp>2019-11-19T16:32:48.7921487+05:30</timeStamp>
+    <typeFullName>
+      <string>SountScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c542fa3cc5c38a54199e8c2a98b89753</guid>
+    <fileName>Assets/SubmitButtonActivae.cs</fileName>
+    <timeStamp>2019-10-24T05:58:34.4044696+05:30</timeStamp>
+    <typeFullName>
+      <string>SubmitButtonActivae</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d7d8b14a743a6994fada4ad1cd0ac0a4</guid>
+    <fileName>Assets/ThemeSelectionScript.cs</fileName>
+    <timeStamp>2019-11-19T10:48:19.7900863+05:30</timeStamp>
+    <typeFullName>
+      <string>ThemeSelectionScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63782029ac49d014590f89876deab987</guid>
+    <fileName>Assets/ThemesScript.cs</fileName>
+    <timeStamp>2019-11-19T10:56:12.845042+05:30</timeStamp>
+    <typeFullName>
+      <string>ThemesScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c8f5667b7bc57e047a83541530ba0f6e</guid>
+    <fileName>Assets/Airy UI/Editor/AiryUIAnchorsEditorWindow.cs</fileName>
+    <timeStamp>2019-08-03T16:48:34+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b53d1c74ef3e47d4a8b741de10f9682f</guid>
+    <fileName>Assets/Airy UI/Editor/AiryUIAnimatedElementInspector.cs</fileName>
+    <timeStamp>2019-08-03T16:48:32+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d5cea415552cf346912b132aa1a298f</guid>
+    <fileName>Assets/Airy UI/Editor/AiryUIAnimationManagerInspector.cs</fileName>
+    <timeStamp>2019-08-03T16:48:20+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9e8c3f4fa9da504b9beefc4ad4641d8</guid>
+    <fileName>Assets/Airy UI/Editor/AiryUIBackButtonInspector.cs</fileName>
+    <timeStamp>2019-08-03T16:48:38+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>431bebe2c8d36fc4b9e17d31b9cf4fbb</guid>
+    <fileName>Assets/Airy UI/Editor/AiryUICustomAnimationElementInspector.cs</fileName>
+    <timeStamp>2019-08-03T16:48:16+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a370e78ec5937d4cb2743b74b116ce0</guid>
+    <fileName>Assets/Airy UI/Editor/AiryUIMainEditor.cs</fileName>
+    <timeStamp>2019-08-03T16:48:27+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>146b4447d146f0f409bd25a3e5ca7203</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUIAnchors.cs</fileName>
+    <timeStamp>2019-08-03T16:48:11+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUIAnchors</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>489298d2578a6ad45b94106bba45e3ab</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUIAnimatedElement.cs</fileName>
+    <timeStamp>2019-08-03T16:48:16+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUIAnimatedElement</string>
+      <string>AnimationType</string>
+      <string>AnimationStartPosition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1089ef60c355e5848a410c41d3c102d6</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUIAnimationManager.cs</fileName>
+    <timeStamp>2019-08-03T16:48:11+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUIAnimationManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>70bbb72fc4067544c9c72ea3b830d5a0</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUIAnimationPositions.cs</fileName>
+    <timeStamp>2019-08-03T16:48:21+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUIAnimationPositions</string>
+      <string>AnimationFromCornerStartFromType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96d307c113913bc4db328d5cb4fec218</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUIBackButton.cs</fileName>
+    <timeStamp>2019-08-03T16:48:26+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUIBackButton</string>
+      <string>AiryUIBackButton+Positions</string>
+      <string>AiryUIBackButton+GraphicType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa16d6c2b4f35d6439d30c01eda3d640</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUIBackButtonManager.cs</fileName>
+    <timeStamp>2019-08-03T16:48:29+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUIBackButtonManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8cd94524c7a386468cb60773c70fe7f</guid>
+    <fileName>Assets/Airy UI/Scripts/AiryUICustomAnimationElement.cs</fileName>
+    <timeStamp>2019-08-03T16:48:32+05:30</timeStamp>
+    <typeFullName>
+      <string>AiryUICustomAnimationElement</string>
+      <string>AiryUICustomAnimationElement+ComponentsToAnimate</string>
+      <string>AiryUICustomAnimationElement+AnimationShowOrHide</string>
+      <string>TransformAnimationRecord</string>
+      <string>GraphicAnimationRecord</string>
+      <string>TransformAndGraphicAnimationRecord</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0c4af02411e3a34197dfae16b572b5f</guid>
+    <fileName>Assets/Editor/ExportTerrain.cs</fileName>
+    <timeStamp>2020-03-27T17:39:41.3494606+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>585901dad4c09564db67dc1e08787f0e</guid>
+    <fileName>Assets/EffectExamples/Misc Effects/Scripts/SpawnEffect.cs</fileName>
+    <timeStamp>2019-07-30T18:47:34+05:30</timeStamp>
+    <typeFullName>
+      <string>SpawnEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8a636f62116c0a40bbfefdf876d4608</guid>
+    <fileName>Assets/PreAssets/Scripts/SimpleCameraController.cs</fileName>
+    <timeStamp>1985-10-26T13:45:00+05:30</timeStamp>
+    <typeFullName>
+      <string>UnityTemplateProjects.SimpleCameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/PreAssets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2019-07-30T18:50:04+05:30</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/PreAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2019-07-30T18:47:18+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a95e0a044abfc473394c6c61eb343e4a</guid>
+    <fileName>Assets/Scripts/ActiveStateToggler.cs</fileName>
+    <timeStamp>2016-09-09T22:53:45+05:30</timeStamp>
+    <typeFullName>
+      <string>ActiveStateToggler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7696221f0cbbc764498b26fbbf4228af</guid>
+    <fileName>Assets/Scripts/ApplicationManager.cs</fileName>
+    <timeStamp>2016-09-09T22:53:38+05:30</timeStamp>
+    <typeFullName>
+      <string>ApplicationManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4a2a0bf9c134b94186d81cb175845be</guid>
+    <fileName>Assets/Scripts/AutoGenerateWords.cs</fileName>
+    <timeStamp>2019-11-22T14:59:01.8364619+05:30</timeStamp>
+    <typeFullName>
+      <string>AutoGenerateWords</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34ab26ddd5becae469322e8ab1a920cf</guid>
+    <fileName>Assets/Scripts/BannerAd.cs</fileName>
+    <timeStamp>2020-02-01T22:12:15.1836264+05:30</timeStamp>
+    <typeFullName>
+      <string>BannerAd</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>715821cc8850a2c498140b59fd9980d1</guid>
+    <fileName>Assets/Scripts/CanvasScript.cs</fileName>
+    <timeStamp>2019-11-23T16:10:31.4559946+05:30</timeStamp>
+    <typeFullName>
+      <string>CanvasScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1768452279328d8499073a96b01ca9c4</guid>
+    <fileName>Assets/Scripts/CanvasText.cs</fileName>
+    <timeStamp>2019-10-19T18:29:06.1751305+05:30</timeStamp>
+    <typeFullName>
+      <string>CanvasText</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71f437cfa250a7d4a9cb2760386ed379</guid>
+    <fileName>Assets/Scripts/ChangeColor.cs</fileName>
+    <timeStamp>2016-09-09T22:53:37+05:30</timeStamp>
+    <typeFullName>
+      <string>ChangeColor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d504571e6b545e84b94c9d2684348a98</guid>
+    <fileName>Assets/Scripts/DragLetters.cs</fileName>
+    <timeStamp>2019-10-21T17:06:44.8443135+05:30</timeStamp>
+    <typeFullName>
+      <string>DragLetters</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16adfeb90f2004348b7dfad7eb9ae316</guid>
+    <fileName>Assets/Scripts/DragMe.cs</fileName>
+    <timeStamp>2016-09-09T22:53:29+05:30</timeStamp>
+    <typeFullName>
+      <string>DragMe</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b895a589a253443a9ac85bafa7402a65</guid>
+    <fileName>Assets/Scripts/DragPanel.cs</fileName>
+    <timeStamp>2016-09-09T22:53:46+05:30</timeStamp>
+    <typeFullName>
+      <string>DragPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>266dee177694435468095e35de5218cc</guid>
+    <fileName>Assets/Scripts/DropMe.cs</fileName>
+    <timeStamp>2016-09-09T22:53:31+05:30</timeStamp>
+    <typeFullName>
+      <string>DropMe</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>189f55c94762d584ca99dd777ecc623e</guid>
+    <fileName>Assets/Scripts/EnteryButtonScript.cs</fileName>
+    <timeStamp>2019-11-19T10:46:15.0000229+05:30</timeStamp>
+    <typeFullName>
+      <string>EnteryButtonScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3e89320ced73574e8db7a90567e9e24</guid>
+    <fileName>Assets/Scripts/FillButtonScript.cs</fileName>
+    <timeStamp>2019-11-19T10:47:18.5286514+05:30</timeStamp>
+    <typeFullName>
+      <string>FillButtonScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b058d2132c0c9b44dbeb1aadfd47033d</guid>
+    <fileName>Assets/Scripts/GMScript.cs</fileName>
+    <timeStamp>2019-10-17T18:03:59.4270684+05:30</timeStamp>
+    <typeFullName>
+      <string>GMScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db12c3377708b17479ce6b926aabb131</guid>
+    <fileName>Assets/Scripts/GrabText.cs</fileName>
+    <timeStamp>2019-11-22T15:01:26.6826249+05:30</timeStamp>
+    <typeFullName>
+      <string>GrabText</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a0b4f96d646a2894daaecca808fdf378</guid>
+    <fileName>Assets/Scripts/ModifyTerrain.cs</fileName>
+    <timeStamp>2020-03-27T17:39:37.6021493+05:30</timeStamp>
+    <typeFullName>
+      <string>ModifyTerrain</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b62b7351824f21a40a3c52215f5f7c58</guid>
+    <fileName>Assets/Scripts/Monatize.cs</fileName>
+    <timeStamp>2020-02-01T22:02:21.9264098+05:30</timeStamp>
+    <typeFullName>
+      <string>Monatize</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0f2cae1009d36c94f95b45a9972d662c</guid>
+    <fileName>Assets/Scripts/MoveLetterTile.cs</fileName>
+    <timeStamp>2019-10-23T20:54:27.9875405+05:30</timeStamp>
+    <typeFullName>
+      <string>MoveLetterTile</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c701a939b58f6443ae883e3148dd274</guid>
+    <fileName>Assets/Scripts/OpenSolveCanvas.cs</fileName>
+    <timeStamp>2019-10-21T17:31:27.3880478+05:30</timeStamp>
+    <typeFullName>
+      <string>OpenSolveCanvas</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8960321e10f80b4c844cd91bf1ea437</guid>
+    <fileName>Assets/Scripts/PanelManager.cs</fileName>
+    <timeStamp>2016-09-09T22:53:46+05:30</timeStamp>
+    <typeFullName>
+      <string>PanelManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bdf784713333a4b24860228711510eac</guid>
+    <fileName>Assets/Scripts/ResizePanel.cs</fileName>
+    <timeStamp>2016-09-09T22:53:46+05:30</timeStamp>
+    <typeFullName>
+      <string>ResizePanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f55b68dc282796488e1181ab0602967</guid>
+    <fileName>Assets/Scripts/ScrollDetailTexture.cs</fileName>
+    <timeStamp>2016-09-09T22:53:30+05:30</timeStamp>
+    <typeFullName>
+      <string>ScrollDetailTexture</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acd5fac7403fe184b870fd9b8d0fa262</guid>
+    <fileName>Assets/Scripts/ShowSliderValue.cs</fileName>
+    <timeStamp>2016-09-09T22:53:45+05:30</timeStamp>
+    <typeFullName>
+      <string>ShowSliderValue</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7b68bea25f26a3498ce7ad74bb07c47</guid>
+    <fileName>Assets/Scripts/SubmitScript.cs</fileName>
+    <timeStamp>2019-11-21T16:25:24.4078685+05:30</timeStamp>
+    <typeFullName>
+      <string>SubmitScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c5b01eb497714c1449cb2df46eb5ac6f</guid>
+    <fileName>Assets/Scripts/TiltWindow.cs</fileName>
+    <timeStamp>2016-09-09T22:53:48+05:30</timeStamp>
+    <typeFullName>
+      <string>TiltWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>253eae81738c9204ab9dfc33d82cfebc</guid>
+    <fileName>Assets/Scripts/TouchControl.cs</fileName>
+    <timeStamp>2019-11-19T10:48:02.4169502+05:30</timeStamp>
+    <typeFullName>
+      <string>TouchControl</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>051d70bc00d6aba4ebec90a6cf43a678</guid>
+    <fileName>Assets/Scripts/TerrainScripts/Terrain1.cs</fileName>
+    <timeStamp>2019-11-19T17:03:34.2772403+05:30</timeStamp>
+    <typeFullName>
+      <string>Terrain1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0939ef1fe67b3477e8058638b5924ab5</guid>
+    <fileName>Assets/Shared/Ramps/Editor/RampAssetEditor.cs</fileName>
+    <timeStamp>2019-07-30T18:46:25+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>366060de70f6d41d688e416621057bb3</guid>
+    <fileName>Assets/Shared/Ramps/Runtime/RampAsset.cs</fileName>
+    <timeStamp>2019-07-30T18:46:59+05:30</timeStamp>
+    <typeFullName>
+      <string>RampAsset</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57a9bba4c7c6adc40805917ce487896a</guid>
+    <fileName>Assets/Shared/Scripts/AdjustTimeScale.cs</fileName>
+    <timeStamp>2019-07-30T18:47:34+05:30</timeStamp>
+    <typeFullName>
+      <string>AdjustTimeScale</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9dda47b72d39443fcbaff0fcbb5f1bd4</guid>
+    <fileName>Assets/Shared/Scripts/ProximityActivate.cs</fileName>
+    <timeStamp>2019-07-30T18:48:29+05:30</timeStamp>
+    <typeFullName>
+      <string>ProximityActivate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b388589949f9448aca1903107a88cb42</guid>
+    <fileName>Assets/Shared/Scripts/SimpleCharacterMotor.cs</fileName>
+    <timeStamp>2019-07-30T18:48:48+05:30</timeStamp>
+    <typeFullName>
+      <string>SimpleCharacterMotor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c5fb1b5c24460f745be29cc0eb06a58c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs</fileName>
+    <timeStamp>2018-04-29T03:46:54+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5e6abf300e36c0a4eb43969c3f2172f8</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs</fileName>
+    <timeStamp>2018-04-29T03:46:04+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01_UGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3467f4170568a484d8b57e2051a27363</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs</fileName>
+    <timeStamp>2018-04-29T03:45:47+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark02</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e6e9d20624a23da4c8b2b6fb7608bb9a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs</fileName>
+    <timeStamp>2018-04-29T03:47:04+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark03</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>481dd67bdedc3104ea2156ed49f3acd5</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs</fileName>
+    <timeStamp>2018-04-29T03:45:54+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark04</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9f0e07aefca0cc459134ff9df622278</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs</fileName>
+    <timeStamp>2018-04-29T03:46:42+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.CameraController</string>
+      <string>TMPro.Examples.CameraController+CameraModes</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eba5a4db2591a5844aea5f6f3ad8548e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs</fileName>
+    <timeStamp>2018-04-29T03:47:05+05:30</timeStamp>
+    <typeFullName>
+      <string>ChatController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e69f3f28c520ce4d9ab9964b2895b1a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs</fileName>
+    <timeStamp>2018-04-29T03:46:20+05:30</timeStamp>
+    <typeFullName>
+      <string>EnvMapAnimator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5e7872ff51989434dabf7807265ada3c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs</fileName>
+    <timeStamp>2018-04-29T03:46:04+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ObjectSpin</string>
+      <string>TMPro.Examples.ObjectSpin+MotionType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c56cf968fb6a5b6488e709242718845d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs</fileName>
+    <timeStamp>2018-04-29T03:46:53+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ShaderPropAnimator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c64808ff5137c9044a583750e5b0468a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs</fileName>
+    <timeStamp>2018-04-29T03:46:54+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SimpleScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48d40dfeb33b717488f55ddbf676643a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs</fileName>
+    <timeStamp>2018-04-29T03:45:55+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SkewTextExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9094c5c777af3f14489e8947748e86e6</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs</fileName>
+    <timeStamp>2018-04-29T03:46:33+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TeleType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45757dcc8f119454dac6365e8fd15e8b</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs</fileName>
+    <timeStamp>2018-04-29T03:45:54+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextConsoleSimulator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd0e4b969aa70504382a89d2f208ae6c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs</fileName>
+    <timeStamp>2018-04-29T03:47:00+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshProFloatingText</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>385939aed18e82d41894437798c30ed8</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs</fileName>
+    <timeStamp>2018-04-29T03:45:49+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshSpawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53b866620ba77504eaf52cab7dbd95c9</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs</fileName>
+    <timeStamp>2018-04-29T03:45:59+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMPro_InstructionOverlay</string>
+      <string>TMPro.Examples.TMPro_InstructionOverlay+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21c56577d32c93e48842112806607543</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs</fileName>
+    <timeStamp>2018-04-29T03:45:37+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_DigitValidator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36bafabb5572c6347923b971425ab3be</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs</fileName>
+    <timeStamp>2018-04-29T03:45:48+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_ExampleScript_01</string>
+      <string>TMPro.Examples.TMP_ExampleScript_01+objectType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c0357609254b68d4881cab18f04dd4dc</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs</fileName>
+    <timeStamp>2018-04-29T03:46:51+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_FrameRateCounter</string>
+      <string>TMPro.Examples.TMP_FrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f3548045a3c0d54199eb7673a50f770</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs</fileName>
+    <timeStamp>2018-04-29T03:46:20+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_PhoneNumberValidator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba181bda76b7f6047ba2188e94bf0894</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs</fileName>
+    <timeStamp>2018-04-29T03:46:48+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextEventCheck</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48a2fdbd95acd794caf78a85a0b6926a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs</fileName>
+    <timeStamp>2018-04-29T03:45:55+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_TextEventHandler</string>
+      <string>TMPro.TMP_TextEventHandler+CharacterSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+SpriteSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+WordSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LineSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LinkSelectionEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5eeee4467ee5b6a4884a1ec94812d93e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs</fileName>
+    <timeStamp>2018-04-29T03:46:04+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextInfoDebugTool</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>68baf2864c88f4a43a50f16709de8717</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs</fileName>
+    <timeStamp>2018-04-29T03:46:07+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_A</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f499ff45b9a3d0840a0df48d01b2877b</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs</fileName>
+    <timeStamp>2018-04-29T03:47:08+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_B</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc33b7a34d20d5e4e8d54b6867ce81e3</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs</fileName>
+    <timeStamp>2018-04-29T03:47:00+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter</string>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c8d54cdd5913d4e4bb7b655d7d16835b</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs</fileName>
+    <timeStamp>2018-04-29T03:46:55+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexColorCycler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4769cb37968ea948a763a9a89f9e583</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs</fileName>
+    <timeStamp>2018-04-29T03:47:03+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexJitter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eaa12d191e718c945ac55da73fa469db</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs</fileName>
+    <timeStamp>2018-04-29T03:47:04+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeA</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32c83a5d3ba42b84aa26386eac47566b</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs</fileName>
+    <timeStamp>2018-04-29T03:45:44+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeB</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5305493000edc7d4ea4302757dc19a99</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs</fileName>
+    <timeStamp>2018-04-29T03:45:58+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexZoom</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3eef864a10f51045a7530e2afe7c179</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs</fileName>
+    <timeStamp>2018-04-29T03:47:07+05:30</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.WarpTextExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
